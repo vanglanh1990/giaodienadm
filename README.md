@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -164,7 +163,7 @@
                         <img src="../../Public/admin/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                     </div>
                     <div class="info">
-                        <a href="#" class="d-block">Nguyễn Trọng Chính</a>
+                        <a href="#" class="d-block">VÀNG XUÂN LÀNH</a>
                     </div>
                 </div>
 
@@ -260,7 +259,6 @@
             </div>
             <!-- /.sidebar -->
         </aside>
-File footer.php: copy và paste đoạn code sau vào file footer.php (đường dẫn: blog/View/admin/layouts/footer.php)  
 <footer class="main-footer">
     <strong>Copyright &copy; 2014-2019 <a href="#">BlogTinTuc</a>.</strong>
     All rights reserved.
